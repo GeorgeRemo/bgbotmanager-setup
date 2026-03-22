@@ -1,0 +1,720 @@
+03/20/2026 18:29:11: Start V3. 3.1.29.1974
+03/20/2026 18:34:15: Start V3. 3.1.29.1974
+03/20/2026 18:35:07: Refreshed session token!
+03/20/2026 18:35:31: Imported 2 tips from betfair sentry.
+03/20/2026 18:35:41: HandleOnPlaceBets: Placed bet, betId: 639096285111085386, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/20/2026 18:40:31: Imported 4 tips from betfair sentry.
+03/20/2026 18:40:33: HandleOnPlaceBets: Placed bet, betId: 639096285111085387, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/20/2026 18:41:15: Keep alive success.
+03/20/2026 18:45:32: Imported 1 tips from betfair sentry.
+03/20/2026 18:45:35: HandleOnPlaceBets: Placed bet, betId: 639096285111085388, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/20/2026 18:48:15: Keep alive success.
+03/20/2026 18:50:32: Imported 1 tips from betfair sentry.
+03/20/2026 18:55:16: Keep alive success.
+03/20/2026 18:55:32: Imported 1 tips from betfair sentry.
+03/20/2026 19:00:32: Imported 1 tips from betfair sentry.
+03/20/2026 19:02:16: Keep alive success.
+03/20/2026 19:05:32: Imported 1 tips from betfair sentry.
+03/20/2026 19:09:16: Keep alive success.
+03/20/2026 19:16:16: Keep alive success.
+03/20/2026 19:20:32: Imported 1 tips from betfair sentry.
+03/20/2026 19:23:17: Keep alive success.
+03/20/2026 19:25:32: Imported 4 tips from betfair sentry.
+03/20/2026 19:30:17: Keep alive success.
+03/20/2026 19:30:33: Imported 5 tips from betfair sentry.
+03/20/2026 19:35:33: Imported 3 tips from betfair sentry.
+03/20/2026 19:37:17: Keep alive success.
+03/20/2026 19:44:17: Keep alive success.
+03/20/2026 19:45:33: Imported 1 tips from betfair sentry.
+03/20/2026 19:45:40: HandleOnPlaceBets: Placed bet, betId: 639096285111085389, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/20/2026 19:50:33: Imported 1 tips from betfair sentry.
+03/20/2026 19:51:18: Keep alive success.
+03/20/2026 19:58:18: Keep alive success.
+03/20/2026 20:05:18: Keep alive success.
+03/20/2026 20:05:34: Imported 1 tips from betfair sentry.
+03/20/2026 20:12:18: Keep alive success.
+03/20/2026 20:19:19: Keep alive success.
+03/20/2026 20:25:34: Imported 1 tips from betfair sentry.
+03/20/2026 20:26:19: Keep alive success.
+03/20/2026 20:33:19: Keep alive success.
+03/20/2026 20:40:19: Keep alive success.
+03/20/2026 20:47:20: Keep alive success.
+03/20/2026 20:54:20: Keep alive success.
+03/20/2026 21:01:20: Keep alive success.
+03/20/2026 21:08:20: Keep alive success.
+03/20/2026 21:15:21: Keep alive success.
+03/20/2026 21:15:35: Imported 1 tips from betfair sentry.
+03/20/2026 21:15:36: HandleOnPlaceBets: Placed bet, betId: 639096285111085390, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/20/2026 21:20:35: Imported 1 tips from betfair sentry.
+03/20/2026 21:20:36: HandleOnPlaceBets: Placed bet, betId: 639096285111085391, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/20/2026 21:22:21: Keep alive success.
+03/20/2026 21:29:21: Keep alive success.
+03/20/2026 21:36:22: Keep alive success.
+03/20/2026 21:43:22: Keep alive success.
+03/20/2026 21:50:22: Keep alive success.
+03/20/2026 21:57:22: Keep alive success.
+03/20/2026 22:04:22: Keep alive success.
+03/20/2026 22:11:23: Keep alive success.
+03/20/2026 22:18:23: Keep alive success.
+03/20/2026 22:25:23: Keep alive success.
+03/20/2026 22:25:37: Imported 2 tips from betfair sentry.
+03/20/2026 22:25:39: HandleOnPlaceBets: Placed bet, betId: 639096285111085392, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/20/2026 22:25:39: HandleOnPlaceBets: Placed bet, betId: 639096285111085393, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/20/2026 22:32:23: Keep alive success.
+03/20/2026 22:39:24: Keep alive success.
+03/20/2026 22:46:24: Keep alive success.
+03/20/2026 22:53:24: Keep alive success.
+03/20/2026 23:00:24: Keep alive success.
+03/20/2026 23:00:38: Imported 1 tips from betfair sentry.
+03/20/2026 23:07:25: Keep alive success.
+03/20/2026 23:10:38: Imported 1 tips from betfair sentry.
+03/20/2026 23:14:25: Keep alive success.
+03/20/2026 23:15:38: Imported 1 tips from betfair sentry.
+03/20/2026 23:21:25: Keep alive success.
+03/20/2026 23:28:26: Keep alive success.
+03/20/2026 23:30:38: Imported 1 tips from betfair sentry.
+03/20/2026 23:30:41: HandleOnPlaceBets: Placed bet, betId: 639096285111085394, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/20/2026 23:35:26: Keep alive success.
+03/20/2026 23:42:26: Keep alive success.
+03/20/2026 23:49:26: Keep alive success.
+03/20/2026 23:55:39: Imported 1 tips from betfair sentry.
+03/20/2026 23:56:26: Keep alive success.
+03/21/2026 00:00:39: Imported 1 tips from betfair sentry.
+03/21/2026 00:03:27: Keep alive success.
+03/21/2026 00:10:27: Keep alive success.
+03/21/2026 00:17:27: Keep alive success.
+03/21/2026 00:20:40: Imported 1 tips from betfair sentry.
+03/21/2026 00:20:41: HandleOnPlaceBets: Placed bet, betId: 639096285111085395, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 00:24:27: Keep alive success.
+03/21/2026 00:25:40: Imported 1 tips from betfair sentry.
+03/21/2026 00:31:28: Keep alive success.
+03/21/2026 00:35:40: Imported 1 tips from betfair sentry.
+03/21/2026 00:38:28: Keep alive success.
+03/21/2026 00:45:28: Keep alive success.
+03/21/2026 00:52:28: Keep alive success.
+03/21/2026 00:59:29: Keep alive success.
+03/21/2026 01:05:41: Imported 1 tips from betfair sentry.
+03/21/2026 01:05:44: HandleOnPlaceBets: Placed bet, betId: 639096285111085396, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 01:06:29: Keep alive success.
+03/21/2026 01:13:29: Keep alive success.
+03/21/2026 01:20:29: Keep alive success.
+03/21/2026 01:27:30: Keep alive success.
+03/21/2026 01:34:30: Keep alive success.
+03/21/2026 01:41:30: Keep alive success.
+03/21/2026 01:45:42: Imported 1 tips from betfair sentry.
+03/21/2026 01:45:42: HandleOnPlaceBets: Placed bet, betId: 639096285111085397, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 01:48:31: Keep alive success.
+03/21/2026 01:55:31: Keep alive success.
+03/21/2026 02:02:31: Keep alive success.
+03/21/2026 02:05:42: Imported 1 tips from betfair sentry.
+03/21/2026 02:09:31: Keep alive success.
+03/21/2026 02:16:32: Keep alive success.
+03/21/2026 02:23:32: Keep alive success.
+03/21/2026 02:30:32: Keep alive success.
+03/21/2026 02:37:32: Keep alive success.
+03/21/2026 02:44:32: Keep alive success.
+03/21/2026 02:50:43: Imported 1 tips from betfair sentry.
+03/21/2026 02:51:33: Keep alive success.
+03/21/2026 02:58:33: Keep alive success.
+03/21/2026 03:00:44: Imported 1 tips from betfair sentry.
+03/21/2026 03:05:33: Keep alive success.
+03/21/2026 03:05:44: Imported 1 tips from betfair sentry.
+03/21/2026 03:12:34: Keep alive success.
+03/21/2026 03:19:34: Keep alive success.
+03/21/2026 03:26:34: Keep alive success.
+03/21/2026 03:30:44: Imported 1 tips from betfair sentry.
+03/21/2026 03:33:34: Keep alive success.
+03/21/2026 03:35:44: Imported 2 tips from betfair sentry.
+03/21/2026 03:35:49: HandleOnPlaceBets: Placed bet, betId: 639096285111085398, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 03:40:35: Keep alive success.
+03/21/2026 03:40:44: Imported 1 tips from betfair sentry.
+03/21/2026 03:47:35: Keep alive success.
+03/21/2026 03:54:35: Keep alive success.
+03/21/2026 04:00:45: Imported 1 tips from betfair sentry.
+03/21/2026 04:00:45: HandleOnPlaceBets: Placed bet, betId: 639096285111085399, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 04:01:35: Keep alive success.
+03/21/2026 04:05:45: Imported 1 tips from betfair sentry.
+03/21/2026 04:05:47: HandleOnPlaceBets: Placed bet, betId: 639096285111085400, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 04:08:36: Keep alive success.
+03/21/2026 04:10:45: Imported 1 tips from betfair sentry.
+03/21/2026 04:15:36: Keep alive success.
+03/21/2026 04:22:36: Keep alive success.
+03/21/2026 04:29:36: Keep alive success.
+03/21/2026 04:30:46: Imported 2 tips from betfair sentry.
+03/21/2026 04:30:49: HandleOnPlaceBets: Placed bet, betId: 639096285111085401, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 04:36:37: Keep alive success.
+03/21/2026 04:40:46: Imported 1 tips from betfair sentry.
+03/21/2026 04:43:37: Keep alive success.
+03/21/2026 04:50:37: Keep alive success.
+03/21/2026 04:50:46: Imported 1 tips from betfair sentry.
+03/21/2026 04:57:38: Keep alive success.
+03/21/2026 05:04:38: Keep alive success.
+03/21/2026 05:05:46: Imported 1 tips from betfair sentry.
+03/21/2026 05:05:49: HandleOnPlaceBets: Placed bet, betId: 639096285111085402, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 05:10:46: Imported 1 tips from betfair sentry.
+03/21/2026 05:11:38: Keep alive success.
+03/21/2026 05:15:46: Imported 1 tips from betfair sentry.
+03/21/2026 05:18:38: Keep alive success.
+03/21/2026 05:20:47: Imported 2 tips from betfair sentry.
+03/21/2026 05:25:39: Keep alive success.
+03/21/2026 05:25:47: Imported 1 tips from betfair sentry.
+03/21/2026 05:25:49: HandleOnPlaceBets: Placed bet, betId: 639096285111085403, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 05:32:39: Keep alive success.
+03/21/2026 05:39:39: Keep alive success.
+03/21/2026 05:46:39: Keep alive success.
+03/21/2026 05:53:40: Keep alive success.
+03/21/2026 06:00:40: Keep alive success.
+03/21/2026 06:07:40: Keep alive success.
+03/21/2026 06:14:40: Keep alive success.
+03/21/2026 06:15:48: Imported 1 tips from betfair sentry.
+03/21/2026 06:15:51: HandleOnPlaceBets: Placed bet, betId: 639096285111085404, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 06:20:48: Imported 1 tips from betfair sentry.
+03/21/2026 06:21:41: Keep alive success.
+03/21/2026 06:28:41: Keep alive success.
+03/21/2026 06:35:41: Keep alive success.
+03/21/2026 06:40:48: Imported 2 tips from betfair sentry.
+03/21/2026 06:42:41: Keep alive success.
+03/21/2026 06:49:42: Keep alive success.
+03/21/2026 06:50:48: Imported 1 tips from betfair sentry.
+03/21/2026 06:56:42: Keep alive success.
+03/21/2026 07:03:42: Keep alive success.
+03/21/2026 07:05:49: Imported 1 tips from betfair sentry.
+03/21/2026 07:10:42: Keep alive success.
+03/21/2026 07:17:43: Keep alive success.
+03/21/2026 07:20:49: Imported 1 tips from betfair sentry.
+03/21/2026 07:24:43: Keep alive success.
+03/21/2026 07:25:49: Imported 1 tips from betfair sentry.
+03/21/2026 07:30:49: Imported 1 tips from betfair sentry.
+03/21/2026 07:31:43: Keep alive success.
+03/21/2026 07:38:43: Keep alive success.
+03/21/2026 07:45:44: Keep alive success.
+03/21/2026 07:52:44: Keep alive success.
+03/21/2026 07:59:44: Keep alive success.
+03/21/2026 08:06:44: Keep alive success.
+03/21/2026 08:10:50: Imported 1 tips from betfair sentry.
+03/21/2026 08:13:45: Keep alive success.
+03/21/2026 08:15:50: Imported 1 tips from betfair sentry.
+03/21/2026 08:20:45: Keep alive success.
+03/21/2026 08:20:50: Imported 3 tips from betfair sentry.
+03/21/2026 08:20:56: HandleOnPlaceBets: Placed bet, betId: 639096285111085405, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 08:27:45: Keep alive success.
+03/21/2026 08:34:45: Keep alive success.
+03/21/2026 08:35:50: Imported 2 tips from betfair sentry.
+03/21/2026 08:41:46: Keep alive success.
+03/21/2026 08:45:50: Imported 1 tips from betfair sentry.
+03/21/2026 08:48:46: Keep alive success.
+03/21/2026 08:50:51: Imported 1 tips from betfair sentry.
+03/21/2026 08:55:46: Keep alive success.
+03/21/2026 09:02:47: Keep alive success.
+03/21/2026 09:09:47: Keep alive success.
+03/21/2026 09:16:47: Keep alive success.
+03/21/2026 09:20:51: Imported 1 tips from betfair sentry.
+03/21/2026 09:23:47: Keep alive success.
+03/21/2026 09:25:51: Imported 1 tips from betfair sentry.
+03/21/2026 09:25:52: HandleOnPlaceBets: Placed bet, betId: 639096285111085406, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 09:30:48: Keep alive success.
+03/21/2026 09:35:51: Imported 2 tips from betfair sentry.
+03/21/2026 09:37:48: Keep alive success.
+03/21/2026 09:40:52: Imported 1 tips from betfair sentry.
+03/21/2026 09:44:48: Keep alive success.
+03/21/2026 09:45:52: Imported 2 tips from betfair sentry.
+03/21/2026 09:51:48: Keep alive success.
+03/21/2026 09:55:52: Imported 2 tips from betfair sentry.
+03/21/2026 09:58:49: Keep alive success.
+03/21/2026 10:00:52: Imported 1 tips from betfair sentry.
+03/21/2026 10:05:49: Keep alive success.
+03/21/2026 10:05:52: Imported 1 tips from betfair sentry.
+03/21/2026 10:12:49: Keep alive success.
+03/21/2026 10:15:52: Imported 3 tips from betfair sentry.
+03/21/2026 10:16:04: HandleOnPlaceBets: Placed bet, betId: 639096285111085407, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 10:19:49: Keep alive success.
+03/21/2026 10:20:52: Imported 2 tips from betfair sentry.
+03/21/2026 10:21:00: HandleOnPlaceBets: Placed bet, betId: 639096285111085408, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 10:25:53: Imported 1 tips from betfair sentry.
+03/21/2026 10:26:50: Keep alive success.
+03/21/2026 10:33:50: Keep alive success.
+03/21/2026 10:35:53: Imported 3 tips from betfair sentry.
+03/21/2026 10:36:02: HandleOnPlaceBets: Placed bet, betId: 639096285111085409, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 10:40:50: Keep alive success.
+03/21/2026 10:40:53: Imported 2 tips from betfair sentry.
+03/21/2026 10:40:56: HandleOnPlaceBets: Placed bet, betId: 639096285111085410, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 10:41:08: HandleOnPlaceBets: Placed bet, betId: 639096285111085411, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 10:45:53: Imported 1 tips from betfair sentry.
+03/21/2026 10:47:50: Keep alive success.
+03/21/2026 10:54:51: Keep alive success.
+03/21/2026 10:55:53: Imported 3 tips from betfair sentry.
+03/21/2026 10:56:02: HandleOnPlaceBets: Placed bet, betId: 639096285111085412, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 11:00:54: Imported 4 tips from betfair sentry.
+03/21/2026 11:01:02: HandleOnPlaceBets: Placed bet, betId: 639096285111085413, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 11:01:51: Keep alive success.
+03/21/2026 11:05:54: Imported 1 tips from betfair sentry.
+03/21/2026 11:08:51: Keep alive success.
+03/21/2026 11:10:54: Imported 1 tips from betfair sentry.
+03/21/2026 11:15:51: Keep alive success.
+03/21/2026 11:15:54: Imported 1 tips from betfair sentry.
+03/21/2026 11:20:54: Imported 2 tips from betfair sentry.
+03/21/2026 11:22:52: Keep alive success.
+03/21/2026 11:25:54: Imported 1 tips from betfair sentry.
+03/21/2026 11:29:52: Keep alive success.
+03/21/2026 11:30:54: Imported 1 tips from betfair sentry.
+03/21/2026 11:36:52: Keep alive success.
+03/21/2026 11:40:55: Imported 2 tips from betfair sentry.
+03/21/2026 11:41:10: HandleOnPlaceBets: Placed bet, betId: 639096285111085414, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 11:43:52: Keep alive success.
+03/21/2026 11:50:53: Keep alive success.
+03/21/2026 11:50:55: Imported 2 tips from betfair sentry.
+03/21/2026 11:55:55: Imported 5 tips from betfair sentry.
+03/21/2026 11:56:08: HandleOnPlaceBets: Placed bet, betId: 639096285111085415, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 11:57:53: Keep alive success.
+03/21/2026 12:00:55: Imported 4 tips from betfair sentry.
+03/21/2026 12:04:53: Keep alive success.
+03/21/2026 12:11:53: Keep alive success.
+03/21/2026 12:15:55: Imported 2 tips from betfair sentry.
+03/21/2026 12:15:58: HandleOnPlaceBets: Placed bet, betId: 639096285111085416, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 12:18:54: Keep alive success.
+03/21/2026 12:20:55: Imported 1 tips from betfair sentry.
+03/21/2026 12:25:54: Keep alive success.
+03/21/2026 12:32:54: Keep alive success.
+03/21/2026 12:34:26: Update market Vegas Golden Knights @ Nashville Predators\Moneyline start time, 21-03 18:00 -> 21-03 18:10.
+03/21/2026 12:34:26: Update market Dallas Stars @ Minnesota Wild\Moneyline start time, 21-03 20:00 -> 21-03 20:09.
+03/21/2026 12:39:55: Keep alive success.
+03/21/2026 12:40:56: Imported 2 tips from betfair sentry.
+03/21/2026 12:41:14: HandleOnPlaceBets: Placed bet, betId: 639096285111085417, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 12:46:55: Keep alive success.
+03/21/2026 12:53:55: Keep alive success.
+03/21/2026 12:55:56: Imported 1 tips from betfair sentry.
+03/21/2026 12:56:04: HandleOnPlaceBets: Placed bet, betId: 639096285111085418, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 13:00:55: Keep alive success.
+03/21/2026 13:05:56: Imported 2 tips from betfair sentry.
+03/21/2026 13:05:58: HandleOnPlaceBets: Placed bet, betId: 639096285111085419, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 13:07:56: Keep alive success.
+03/21/2026 13:10:56: Imported 2 tips from betfair sentry.
+03/21/2026 13:14:56: Keep alive success.
+03/21/2026 13:15:57: Imported 1 tips from betfair sentry.
+03/21/2026 13:20:57: Imported 1 tips from betfair sentry.
+03/21/2026 13:21:56: Keep alive success.
+03/21/2026 13:25:57: Imported 2 tips from betfair sentry.
+03/21/2026 13:26:16: HandleOnPlaceBets: Placed bet, betId: 639096285111085420, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 13:26:16: HandleOnPlaceBets: Placed bet, betId: 639096285111085421, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 13:28:56: Keep alive success.
+03/21/2026 13:30:58: Imported 3 tips from betfair sentry.
+03/21/2026 13:35:57: Keep alive success.
+03/21/2026 13:40:58: Imported 1 tips from betfair sentry.
+03/21/2026 13:42:57: Keep alive success.
+03/21/2026 13:45:58: Imported 1 tips from betfair sentry.
+03/21/2026 13:46:16: HandleOnPlaceBets: Placed bet, betId: 639096285111085422, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 13:49:57: Keep alive success.
+03/21/2026 13:50:58: Imported 3 tips from betfair sentry.
+03/21/2026 13:56:57: Keep alive success.
+03/21/2026 14:00:59: Imported 2 tips from betfair sentry.
+03/21/2026 14:03:58: Keep alive success.
+03/21/2026 14:05:59: Imported 2 tips from betfair sentry.
+03/21/2026 14:06:16: HandleOnPlaceBets: Placed bet, betId: 639096285111085423, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 14:10:58: Keep alive success.
+03/21/2026 14:10:59: Imported 2 tips from betfair sentry.
+03/21/2026 14:11:08: HandleOnPlaceBets: Placed bet, betId: 639096285111085424, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 14:15:59: Imported 1 tips from betfair sentry.
+03/21/2026 14:17:58: Keep alive success.
+03/21/2026 14:20:59: Imported 1 tips from betfair sentry.
+03/21/2026 14:24:59: Keep alive success.
+03/21/2026 14:25:59: Imported 4 tips from betfair sentry.
+03/21/2026 14:26:14: HandleOnPlaceBets: Placed bet, betId: 639096285111085425, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 14:31:00: Imported 1 tips from betfair sentry.
+03/21/2026 14:31:59: Keep alive success.
+03/21/2026 14:36:00: Imported 4 tips from betfair sentry.
+03/21/2026 14:36:00: HandleOnPlaceBets: Placed bet, betId: 639096285111085426, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 14:38:59: Keep alive success.
+03/21/2026 14:41:00: Imported 1 tips from betfair sentry.
+03/21/2026 14:45:59: Keep alive success.
+03/21/2026 14:46:00: Imported 4 tips from betfair sentry.
+03/21/2026 14:46:08: HandleOnPlaceBets: Placed bet, betId: 639096285111085427, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 14:46:08: HandleOnPlaceBets: Placed bet, betId: 639096285111085428, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 14:51:01: Imported 2 tips from betfair sentry.
+03/21/2026 14:53:00: Keep alive success.
+03/21/2026 14:56:01: Imported 1 tips from betfair sentry.
+03/21/2026 15:00:00: Keep alive success.
+03/21/2026 15:01:02: Imported 1 tips from betfair sentry.
+03/21/2026 15:01:08: HandleOnPlaceBets: Placed bet, betId: 639096285111085429, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 15:06:02: Imported 2 tips from betfair sentry.
+03/21/2026 15:07:00: Keep alive success.
+03/21/2026 15:14:00: Keep alive success.
+03/21/2026 15:16:02: Imported 2 tips from betfair sentry.
+03/21/2026 15:16:04: HandleOnPlaceBets: Placed bet, betId: 639096285111085430, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 15:21:01: Keep alive success.
+03/21/2026 15:28:01: Keep alive success.
+03/21/2026 15:28:03: Auto remove tips after market start time, removed 204 tips.
+03/21/2026 15:31:03: Imported 94 tips from betfair sentry.
+03/21/2026 15:35:01: Keep alive success.
+03/21/2026 15:42:01: Keep alive success.
+03/21/2026 15:43:03: Auto remove tips after market start time, removed 96 tips.
+03/21/2026 15:46:03: Imported 96 tips from betfair sentry.
+03/21/2026 15:49:02: Keep alive success.
+03/21/2026 15:51:03: Imported 1 tips from betfair sentry.
+03/21/2026 15:56:02: Keep alive success.
+03/21/2026 15:58:03: Auto remove tips after market start time, removed 97 tips.
+03/21/2026 16:01:03: Imported 99 tips from betfair sentry.
+03/21/2026 16:01:04: HandleOnPlaceBets: Placed bet, betId: 639096285111085431, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 16:03:02: Keep alive success.
+03/21/2026 16:06:03: Imported 2 tips from betfair sentry.
+03/21/2026 16:06:06: HandleOnPlaceBets: Placed bet, betId: 639096285111085432, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 16:10:03: Keep alive success.
+03/21/2026 16:13:03: Auto remove tips after market start time, removed 104 tips.
+03/21/2026 16:16:04: Imported 104 tips from betfair sentry.
+03/21/2026 16:17:03: Keep alive success.
+03/21/2026 16:19:30: HandleOnPlaceBets: Placed bet, betId: 639096285111085433, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 16:19:32: HandleOnPlaceBets: Placed bet, betId: 639096285111085434, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 16:19:32: HandleOnPlaceBets: Placed bet, betId: 639096285111085435, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 16:19:32: HandleOnPlaceBets: Placed bet, betId: 639096285111085436, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 16:19:42: HandleOnPlaceBets: Placed bet, betId: 639096285111085437, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 16:21:04: Imported 191 tips from betfair sentry.
+03/21/2026 16:22:50: HandleOnPlaceBets: Placed bet, betId: 639096285111085438, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 16:24:03: Keep alive success.
+03/21/2026 16:28:04: Auto remove tips after market start time, removed 104 tips.
+03/21/2026 16:31:04: Keep alive success.
+03/21/2026 16:31:04: Imported 104 tips from betfair sentry.
+03/21/2026 16:38:04: Keep alive success.
+03/21/2026 16:43:04: Auto remove tips after market start time, removed 108 tips.
+03/21/2026 16:45:04: Keep alive success.
+03/21/2026 16:46:04: Imported 109 tips from betfair sentry.
+03/21/2026 16:51:05: Imported 1 tips from betfair sentry.
+03/21/2026 16:52:04: Keep alive success.
+03/21/2026 16:58:05: Auto remove tips after market start time, removed 108 tips.
+03/21/2026 16:59:05: Keep alive success.
+03/21/2026 17:01:05: Imported 109 tips from betfair sentry.
+03/21/2026 17:06:05: Keep alive success.
+03/21/2026 17:13:05: Auto remove tips after market start time, removed 144 tips.
+03/21/2026 17:13:05: Keep alive success.
+03/21/2026 17:16:05: Imported 146 tips from betfair sentry.
+03/21/2026 17:20:05: Keep alive success.
+03/21/2026 17:27:06: Keep alive success.
+03/21/2026 17:28:05: Auto remove tips after market start time, removed 148 tips.
+03/21/2026 17:31:05: Imported 150 tips from betfair sentry.
+03/21/2026 17:31:14: HandleOnPlaceBets: Placed bet, betId: 639096285111085439, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 17:34:06: Keep alive success.
+03/21/2026 17:41:06: Keep alive success.
+03/21/2026 17:43:06: Auto remove tips after market start time, removed 152 tips.
+03/21/2026 17:46:06: Imported 153 tips from betfair sentry.
+03/21/2026 17:48:06: Keep alive success.
+03/21/2026 17:51:06: Imported 1 tips from betfair sentry.
+03/21/2026 17:55:07: Keep alive success.
+03/21/2026 17:56:06: Imported 1 tips from betfair sentry.
+03/21/2026 17:56:18: HandleOnPlaceBets: Placed bet, betId: 639096285111085440, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 17:58:06: Auto remove tips after market start time, removed 152 tips.
+03/21/2026 18:01:06: Imported 153 tips from betfair sentry.
+03/21/2026 18:01:14: HandleOnPlaceBets: Placed bet, betId: 639096285111085441, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 18:02:07: Keep alive success.
+03/21/2026 18:06:07: Imported 2 tips from betfair sentry.
+03/21/2026 18:06:12: HandleOnPlaceBets: Placed bet, betId: 639096285111085442, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 18:09:07: Keep alive success.
+03/21/2026 18:11:07: Imported 1 tips from betfair sentry.
+03/21/2026 18:13:07: Auto remove tips after market start time, removed 156 tips.
+03/21/2026 18:16:07: Imported 156 tips from betfair sentry.
+03/21/2026 18:16:08: Keep alive success.
+03/21/2026 18:23:08: Keep alive success.
+03/21/2026 18:26:07: Imported 1 tips from betfair sentry.
+03/21/2026 18:26:15: HandleOnPlaceBets: Placed bet, betId: 639096285111085443, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 18:28:07: Auto remove tips after market start time, removed 157 tips.
+03/21/2026 18:30:08: Keep alive success.
+03/21/2026 18:31:07: Imported 157 tips from betfair sentry.
+03/21/2026 18:36:07: Imported 2 tips from betfair sentry.
+03/21/2026 18:36:08: HandleOnPlaceBets: Placed bet, betId: 639096285111085444, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 18:37:08: Keep alive success.
+03/21/2026 18:43:07: Auto remove tips after market start time, removed 158 tips.
+03/21/2026 18:44:09: Keep alive success.
+03/21/2026 18:46:07: Imported 159 tips from betfair sentry.
+03/21/2026 18:51:08: Imported 2 tips from betfair sentry.
+03/21/2026 18:51:09: Keep alive success.
+03/21/2026 18:56:08: Imported 1 tips from betfair sentry.
+03/21/2026 18:58:08: Auto remove tips after market start time, removed 158 tips.
+03/21/2026 18:58:09: Keep alive success.
+03/21/2026 19:01:08: Imported 160 tips from betfair sentry.
+03/21/2026 19:01:12: HandleOnPlaceBets: Placed bet, betId: 639096285111085445, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 19:05:09: Keep alive success.
+03/21/2026 19:11:08: Imported 1 tips from betfair sentry.
+03/21/2026 19:12:10: Keep alive success.
+03/21/2026 19:13:08: Auto remove tips after market start time, removed 169 tips.
+03/21/2026 19:16:08: Imported 169 tips from betfair sentry.
+03/21/2026 19:19:10: Keep alive success.
+03/21/2026 19:26:10: Keep alive success.
+03/21/2026 19:28:08: Auto remove tips after market start time, removed 169 tips.
+03/21/2026 19:31:08: Imported 169 tips from betfair sentry.
+03/21/2026 19:33:10: Keep alive success.
+03/21/2026 19:40:11: Keep alive success.
+03/21/2026 19:43:09: Auto remove tips after market start time, removed 173 tips.
+03/21/2026 19:46:09: Imported 173 tips from betfair sentry.
+03/21/2026 19:47:11: Keep alive success.
+03/21/2026 19:54:11: Keep alive success.
+03/21/2026 19:58:10: Auto remove tips after market start time, removed 173 tips.
+03/21/2026 20:01:10: Imported 174 tips from betfair sentry.
+03/21/2026 20:01:11: Keep alive success.
+03/21/2026 20:04:26: Update market Dallas Stars @ Minnesota Wild\Moneyline start time, 21-03 20:09 -> 21-03 20:20.
+03/21/2026 20:06:10: Imported 1 tips from betfair sentry.
+03/21/2026 20:08:12: Keep alive success.
+03/21/2026 20:13:10: Auto remove tips after market start time, removed 178 tips.
+03/21/2026 20:15:12: Keep alive success.
+03/21/2026 20:16:10: Imported 178 tips from betfair sentry.
+03/21/2026 20:22:12: Keep alive success.
+03/21/2026 20:28:10: Auto remove tips after market start time, removed 179 tips.
+03/21/2026 20:29:12: Keep alive success.
+03/21/2026 20:31:10: Imported 179 tips from betfair sentry.
+03/21/2026 20:36:13: Keep alive success.
+03/21/2026 20:43:11: Auto remove tips after market start time, removed 181 tips.
+03/21/2026 20:43:13: Keep alive success.
+03/21/2026 20:46:11: Imported 181 tips from betfair sentry.
+03/21/2026 20:50:13: Keep alive success.
+03/21/2026 20:57:14: Keep alive success.
+03/21/2026 20:58:11: Auto remove tips after market start time, removed 181 tips.
+03/21/2026 21:01:11: Imported 182 tips from betfair sentry.
+03/21/2026 21:04:14: Keep alive success.
+03/21/2026 21:11:14: Keep alive success.
+03/21/2026 21:13:12: Auto remove tips after market start time, removed 188 tips.
+03/21/2026 21:16:12: Imported 189 tips from betfair sentry.
+03/21/2026 21:18:14: Keep alive success.
+03/21/2026 21:21:12: Imported 1 tips from betfair sentry.
+03/21/2026 21:25:15: Keep alive success.
+03/21/2026 21:28:12: Auto remove tips after market start time, removed 189 tips.
+03/21/2026 21:31:12: Imported 189 tips from betfair sentry.
+03/21/2026 21:32:15: Keep alive success.
+03/21/2026 21:39:15: Keep alive success.
+03/21/2026 21:43:12: Auto remove tips after market start time, removed 191 tips.
+03/21/2026 21:46:13: Imported 190 tips from betfair sentry.
+03/21/2026 21:46:15: Keep alive success.
+03/21/2026 21:53:16: Keep alive success.
+03/21/2026 21:58:13: Auto remove tips after market start time, removed 193 tips.
+03/21/2026 22:00:16: Keep alive success.
+03/21/2026 22:01:13: Imported 194 tips from betfair sentry.
+03/21/2026 22:04:28: Update market Texas A&M @ Houston\Moneyline start time, 21-03 22:10 -> 21-03 22:15.
+03/21/2026 22:06:13: Imported 1 tips from betfair sentry.
+03/21/2026 22:07:16: Keep alive success.
+03/21/2026 22:13:13: Auto remove tips after market start time, removed 198 tips.
+03/21/2026 22:14:16: Keep alive success.
+03/21/2026 22:16:13: Imported 200 tips from betfair sentry.
+03/21/2026 22:21:13: Imported 1 tips from betfair sentry.
+03/21/2026 22:21:15: HandleOnPlaceBets: Placed bet, betId: 639096285111085446, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 22:21:17: Keep alive success.
+03/21/2026 22:26:14: Imported 1 tips from betfair sentry.
+03/21/2026 22:26:21: HandleOnPlaceBets: Placed bet, betId: 639096285111085447, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 22:28:14: Auto remove tips after market start time, removed 198 tips.
+03/21/2026 22:28:17: Keep alive success.
+03/21/2026 22:31:14: Imported 198 tips from betfair sentry.
+03/21/2026 22:35:17: Keep alive success.
+03/21/2026 22:42:17: Keep alive success.
+03/21/2026 22:43:14: Auto remove tips after market start time, removed 201 tips.
+03/21/2026 22:46:14: Imported 203 tips from betfair sentry.
+03/21/2026 22:49:18: Keep alive success.
+03/21/2026 22:51:14: Imported 1 tips from betfair sentry.
+03/21/2026 22:56:18: Keep alive success.
+03/21/2026 22:58:14: Auto remove tips after market start time, removed 202 tips.
+03/21/2026 23:01:14: Imported 202 tips from betfair sentry.
+03/21/2026 23:03:18: Keep alive success.
+03/21/2026 23:10:19: Keep alive success.
+03/21/2026 23:11:15: Imported 1 tips from betfair sentry.
+03/21/2026 23:13:15: Auto remove tips after market start time, removed 204 tips.
+03/21/2026 23:16:15: Imported 204 tips from betfair sentry.
+03/21/2026 23:17:19: Keep alive success.
+03/21/2026 23:21:15: Imported 1 tips from betfair sentry.
+03/21/2026 23:21:17: HandleOnPlaceBets: Placed bet, betId: 639096285111085448, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/21/2026 23:24:19: Keep alive success.
+03/21/2026 23:28:15: Auto remove tips after market start time, removed 204 tips.
+03/21/2026 23:31:15: Imported 205 tips from betfair sentry.
+03/21/2026 23:31:19: Keep alive success.
+03/21/2026 23:34:29: Update market Charlotte FC v New York Red Bulls\Match Odds start time, 21-03 23:30 -> 21-03 23:40.
+03/21/2026 23:38:20: Keep alive success.
+03/21/2026 23:43:16: Auto remove tips after market start time, removed 206 tips.
+03/21/2026 23:45:20: Keep alive success.
+03/21/2026 23:46:16: Imported 206 tips from betfair sentry.
+03/21/2026 23:52:20: Keep alive success.
+03/21/2026 23:58:16: Auto remove tips after market start time, removed 206 tips.
+03/21/2026 23:59:20: Keep alive success.
+03/22/2026 00:01:16: Imported 206 tips from betfair sentry.
+03/22/2026 00:06:21: Keep alive success.
+03/22/2026 00:11:17: Imported 1 tips from betfair sentry.
+03/22/2026 00:13:17: Auto remove tips after market start time, removed 208 tips.
+03/22/2026 00:13:21: Keep alive success.
+03/22/2026 00:16:17: Imported 208 tips from betfair sentry.
+03/22/2026 00:20:21: Keep alive success.
+03/22/2026 00:27:22: Keep alive success.
+03/22/2026 00:28:17: Auto remove tips after market start time, removed 210 tips.
+03/22/2026 00:31:17: Imported 210 tips from betfair sentry.
+03/22/2026 00:34:22: Keep alive success.
+03/22/2026 00:34:29: Update market FC Dallas v Houston Dynamo\Over/Under 2.5 Goals start time, 22-03 00:30 -> 22-03 00:40.
+03/22/2026 00:34:29: Update market FC Dallas v Houston Dynamo\Match Odds start time, 22-03 00:30 -> 22-03 00:40.
+03/22/2026 00:41:22: Keep alive success.
+03/22/2026 00:43:17: Auto remove tips after market start time, removed 210 tips.
+03/22/2026 00:46:17: Imported 210 tips from betfair sentry.
+03/22/2026 00:48:22: Keep alive success.
+03/22/2026 00:55:22: Keep alive success.
+03/22/2026 00:58:18: Auto remove tips after market start time, removed 210 tips.
+03/22/2026 01:01:18: Imported 210 tips from betfair sentry.
+03/22/2026 01:02:23: Keep alive success.
+03/22/2026 01:09:23: Keep alive success.
+03/22/2026 01:13:18: Auto remove tips after market start time, removed 219 tips.
+03/22/2026 01:16:18: Imported 219 tips from betfair sentry.
+03/22/2026 01:16:23: Keep alive success.
+03/22/2026 01:23:23: Keep alive success.
+03/22/2026 01:28:19: Auto remove tips after market start time, removed 220 tips.
+03/22/2026 01:30:24: Keep alive success.
+03/22/2026 01:31:19: Imported 220 tips from betfair sentry.
+03/22/2026 01:37:24: Keep alive success.
+03/22/2026 01:43:19: Auto remove tips after market start time, removed 224 tips.
+03/22/2026 01:44:24: Keep alive success.
+03/22/2026 01:46:19: Imported 222 tips from betfair sentry.
+03/22/2026 01:51:19: Imported 1 tips from betfair sentry.
+03/22/2026 01:51:24: Keep alive success.
+03/22/2026 01:58:20: Auto remove tips after market start time, removed 223 tips.
+03/22/2026 01:58:25: Keep alive success.
+03/22/2026 02:01:20: Imported 223 tips from betfair sentry.
+03/22/2026 02:05:25: Keep alive success.
+03/22/2026 02:12:25: Keep alive success.
+03/22/2026 02:13:20: Auto remove tips after market start time, removed 227 tips.
+03/22/2026 02:16:20: Imported 228 tips from betfair sentry.
+03/22/2026 02:16:21: HandleOnPlaceBets: Placed bet, betId: 639096285111085449, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 02:19:25: Keep alive success.
+03/22/2026 02:21:20: Imported 1 tips from betfair sentry.
+03/22/2026 02:26:26: Keep alive success.
+03/22/2026 02:28:20: Auto remove tips after market start time, removed 227 tips.
+03/22/2026 02:31:21: Imported 227 tips from betfair sentry.
+03/22/2026 02:33:26: Keep alive success.
+03/22/2026 02:40:26: Keep alive success.
+03/22/2026 02:43:21: Auto remove tips after market start time, removed 233 tips.
+03/22/2026 02:46:21: Imported 229 tips from betfair sentry.
+03/22/2026 02:47:27: Keep alive success.
+03/22/2026 02:51:21: Imported 2 tips from betfair sentry.
+03/22/2026 02:54:27: Keep alive success.
+03/22/2026 02:58:21: Auto remove tips after market start time, removed 230 tips.
+03/22/2026 03:01:21: Imported 230 tips from betfair sentry.
+03/22/2026 03:01:27: Keep alive success.
+03/22/2026 03:06:21: Imported 1 tips from betfair sentry.
+03/22/2026 03:08:27: Keep alive success.
+03/22/2026 03:13:21: Auto remove tips after market start time, removed 230 tips.
+03/22/2026 03:15:27: Keep alive success.
+03/22/2026 03:16:22: Imported 230 tips from betfair sentry.
+03/22/2026 03:22:28: Keep alive success.
+03/22/2026 03:28:22: Auto remove tips after market start time, removed 230 tips.
+03/22/2026 03:29:28: Keep alive success.
+03/22/2026 03:31:22: Imported 230 tips from betfair sentry.
+03/22/2026 03:36:22: Imported 1 tips from betfair sentry.
+03/22/2026 03:36:28: Keep alive success.
+03/22/2026 03:41:22: Imported 1 tips from betfair sentry.
+03/22/2026 03:41:23: HandleOnPlaceBets: Placed bet, betId: 639096285111085450, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 03:43:22: Auto remove tips after market start time, removed 230 tips.
+03/22/2026 03:43:28: Keep alive success.
+03/22/2026 03:46:22: Imported 231 tips from betfair sentry.
+03/22/2026 03:50:29: Keep alive success.
+03/22/2026 03:51:23: Imported 1 tips from betfair sentry.
+03/22/2026 03:57:29: Keep alive success.
+03/22/2026 03:58:23: Auto remove tips after market start time, removed 230 tips.
+03/22/2026 04:01:23: Imported 230 tips from betfair sentry.
+03/22/2026 04:04:29: Keep alive success.
+03/22/2026 04:06:23: Imported 1 tips from betfair sentry.
+03/22/2026 04:11:29: Keep alive success.
+03/22/2026 04:13:23: Auto remove tips after market start time, removed 231 tips.
+03/22/2026 04:16:24: Imported 234 tips from betfair sentry.
+03/22/2026 04:18:30: Keep alive success.
+03/22/2026 04:21:24: Imported 2 tips from betfair sentry.
+03/22/2026 04:25:30: Keep alive success.
+03/22/2026 04:28:24: Auto remove tips after market start time, removed 231 tips.
+03/22/2026 04:31:24: Imported 231 tips from betfair sentry.
+03/22/2026 04:32:30: Keep alive success.
+03/22/2026 04:39:30: Keep alive success.
+03/22/2026 04:43:24: Auto remove tips after market start time, removed 231 tips.
+03/22/2026 04:46:24: Imported 232 tips from betfair sentry.
+03/22/2026 04:46:31: Keep alive success.
+03/22/2026 04:51:24: Imported 2 tips from betfair sentry.
+03/22/2026 04:53:31: Keep alive success.
+03/22/2026 04:58:25: Auto remove tips after market start time, removed 231 tips.
+03/22/2026 05:00:31: Keep alive success.
+03/22/2026 05:01:25: Imported 231 tips from betfair sentry.
+03/22/2026 05:06:25: Imported 1 tips from betfair sentry.
+03/22/2026 05:06:27: HandleOnPlaceBets: Placed bet, betId: 639096285111085451, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 05:07:31: Keep alive success.
+03/22/2026 05:13:25: Auto remove tips after market start time, removed 232 tips.
+03/22/2026 05:14:32: Keep alive success.
+03/22/2026 05:16:25: Imported 233 tips from betfair sentry.
+03/22/2026 05:21:32: Keep alive success.
+03/22/2026 05:26:26: Imported 1 tips from betfair sentry.
+03/22/2026 05:28:26: Auto remove tips after market start time, removed 232 tips.
+03/22/2026 05:28:32: Keep alive success.
+03/22/2026 05:31:26: Imported 232 tips from betfair sentry.
+03/22/2026 05:35:32: Keep alive success.
+03/22/2026 05:36:26: Imported 1 tips from betfair sentry.
+03/22/2026 05:41:26: Imported 3 tips from betfair sentry.
+03/22/2026 05:42:33: Keep alive success.
+03/22/2026 05:43:26: Auto remove tips after market start time, removed 232 tips.
+03/22/2026 05:46:26: Imported 233 tips from betfair sentry.
+03/22/2026 05:49:33: Keep alive success.
+03/22/2026 05:56:27: Imported 1 tips from betfair sentry.
+03/22/2026 05:56:33: Keep alive success.
+03/22/2026 05:58:27: Auto remove tips after market start time, removed 232 tips.
+03/22/2026 06:01:27: Imported 232 tips from betfair sentry.
+03/22/2026 06:03:33: Keep alive success.
+03/22/2026 06:06:27: Imported 1 tips from betfair sentry.
+03/22/2026 06:06:27: HandleOnPlaceBets: Placed bet, betId: 639096285111085452, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 06:10:33: Keep alive success.
+03/22/2026 06:13:27: Auto remove tips after market start time, removed 235 tips.
+03/22/2026 06:16:27: Imported 235 tips from betfair sentry.
+03/22/2026 06:17:34: Keep alive success.
+03/22/2026 06:24:34: Keep alive success.
+03/22/2026 06:28:27: Auto remove tips after market start time, removed 235 tips.
+03/22/2026 06:31:28: Imported 236 tips from betfair sentry.
+03/22/2026 06:31:31: HandleOnPlaceBets: Placed bet, betId: 639096285111085453, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 06:31:34: Keep alive success.
+03/22/2026 06:36:28: Imported 1 tips from betfair sentry.
+03/22/2026 06:38:34: Keep alive success.
+03/22/2026 06:41:28: Imported 1 tips from betfair sentry.
+03/22/2026 06:43:28: Auto remove tips after market start time, removed 235 tips.
+03/22/2026 06:45:35: Keep alive success.
+03/22/2026 06:46:28: Imported 235 tips from betfair sentry.
+03/22/2026 06:52:35: Keep alive success.
+03/22/2026 06:56:28: Imported 2 tips from betfair sentry.
+03/22/2026 06:56:33: HandleOnPlaceBets: Placed bet, betId: 639096285111085454, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 06:58:28: Auto remove tips after market start time, removed 235 tips.
+03/22/2026 06:59:35: Keep alive success.
+03/22/2026 07:01:28: Imported 236 tips from betfair sentry.
+03/22/2026 07:06:36: Keep alive success.
+03/22/2026 07:13:29: Auto remove tips after market start time, removed 247 tips.
+03/22/2026 07:13:36: Keep alive success.
+03/22/2026 07:16:29: Imported 247 tips from betfair sentry.
+03/22/2026 07:20:36: Keep alive success.
+03/22/2026 07:26:29: Imported 1 tips from betfair sentry.
+03/22/2026 07:26:33: HandleOnPlaceBets: Placed bet, betId: 639096285111085455, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 07:27:37: Keep alive success.
+03/22/2026 07:28:29: Auto remove tips after market start time, removed 246 tips.
+03/22/2026 07:31:29: Imported 247 tips from betfair sentry.
+03/22/2026 07:34:37: Keep alive success.
+03/22/2026 07:41:37: Keep alive success.
+03/22/2026 07:43:29: Auto remove tips after market start time, removed 246 tips.
+03/22/2026 07:46:30: Imported 247 tips from betfair sentry.
+03/22/2026 07:48:37: Keep alive success.
+03/22/2026 07:55:38: Keep alive success.
+03/22/2026 07:58:30: Auto remove tips after market start time, removed 246 tips.
+03/22/2026 08:01:30: Imported 249 tips from betfair sentry.
+03/22/2026 08:01:31: HandleOnPlaceBets: Placed bet, betId: 639096285111085456, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 08:01:33: HandleOnPlaceBets: Placed bet, betId: 639096285111085457, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 08:01:35: HandleOnPlaceBets: Placed bet, betId: 639096285111085458, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 08:02:38: Keep alive success.
+03/22/2026 08:06:30: Imported 1 tips from betfair sentry.
+03/22/2026 08:06:31: HandleOnPlaceBets: Placed bet, betId: 639096285111085459, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 08:09:38: Keep alive success.
+03/22/2026 08:13:31: Auto remove tips after market start time, removed 250 tips.
+03/22/2026 08:16:31: Imported 250 tips from betfair sentry.
+03/22/2026 08:16:38: Keep alive success.
+03/22/2026 08:23:39: Keep alive success.
+03/22/2026 08:28:31: Auto remove tips after market start time, removed 250 tips.
+03/22/2026 08:30:39: Keep alive success.
+03/22/2026 08:31:31: Imported 253 tips from betfair sentry.
+03/22/2026 08:31:35: HandleOnPlaceBets: Placed bet, betId: 639096285111085460, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 08:37:39: Keep alive success.
+03/22/2026 08:41:31: Imported 1 tips from betfair sentry.
+03/22/2026 08:43:31: Auto remove tips after market start time, removed 250 tips.
+03/22/2026 08:44:39: Keep alive success.
+03/22/2026 08:46:32: Imported 250 tips from betfair sentry.
+03/22/2026 08:51:40: Keep alive success.
+03/22/2026 08:58:32: Auto remove tips after market start time, removed 250 tips.
+03/22/2026 08:58:40: Keep alive success.
+03/22/2026 09:01:32: Imported 251 tips from betfair sentry.
+03/22/2026 09:05:40: Keep alive success.
+03/22/2026 09:06:32: Imported 1 tips from betfair sentry.
+03/22/2026 09:11:32: Imported 1 tips from betfair sentry.
+03/22/2026 09:11:34: HandleOnPlaceBets: Placed bet, betId: 639096285111085461, sizeMatched: 0, success: SUCCESS, strategy: pinnacle automation, sid: 260203-EVV2C8
+03/22/2026 09:12:41: Keep alive success.
